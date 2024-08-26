@@ -9,5 +9,5 @@
 //   cout << x / y << endl; // 2 becuse the ans is 2.5 but the ans is 2 because the ans is integer.so thats why it gives integer value.
 
 
-//   // when we are playing with decimal points or floating numbers then we can use float.
+//   // when we are playing with decimal points or floating numbers then we can use float..
 // }
