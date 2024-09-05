@@ -21,6 +21,6 @@
 //     }
 //     else
 //     {
-//         cout << "divisible by 15";
+//         cout << "divisible by 15 ";
 //     }
 // }
