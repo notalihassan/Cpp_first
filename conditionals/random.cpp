@@ -1,12 +1,12 @@
-#include <iostream>
-using namespace std;
+// #include <iostream>
+// using namespace std;
 
-int main(){
+// int main(){
 
-  char n;
-  cout << "Enter your name : ";
-  cin >> n;
+//   char n;
+//   cout << "Enter your name : ";
+//   cin >> n;
 
-  cout << "Hello " << n << "!!";
+//   cout << "Hello " << n << "!";
   
-}
+// }
