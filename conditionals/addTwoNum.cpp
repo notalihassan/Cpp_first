@@ -9,5 +9,7 @@ int main(){
   cin >> y;
 
   cout << "Sum of two numbers is : " << x + y;
+
+  cout << "Thanks!";
   
 }
